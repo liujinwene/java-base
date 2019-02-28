@@ -1,4 +1,4 @@
-package com.abc.structure;
+package com.abc.structure.search;
 
 public class BinarySearch {
 
